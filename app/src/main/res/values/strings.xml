@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simax Trend</string>
+    <string name="movies_desc">movies</string>
+    <string name="pop">sort by popular movies</string>
+    <string name="top">sort by rated movies</string>
+    <string name="movie_image">movie image</string>
 </resources>
